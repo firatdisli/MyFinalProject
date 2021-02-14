@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "K03jCkBfh4Od6EP7WtfjSs9IIDCesJnQbX+WkiC6TSytG6vvRtMNz/KL0nvLfTW5ht74kmX9BNvbzGZAJlpOHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\frt\\Desktop\\kamp\\MyFinalProject\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\frt\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\frt\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
